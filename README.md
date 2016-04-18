@@ -1,4 +1,5 @@
-# 1942-2
+# 1942-2 ![alt text] (http://i.imgur.com/qACbUO5.png "Super Ace")
+===
 -University Assignment- A remake of the classic 1980's arcade title '1942'.
 
 | What needs doing | Is it done? (Probably not) |
