@@ -1,6 +1,8 @@
 ![alt text](http://i.imgur.com/qACbUO5.png "Cool plane") 1942-2 ![alt text](http://i.imgur.com/qACbUO5.png "Cool plane")
 ===
--University Assignment- A remake of the classic 1980's arcade title '1942'.
+-University Assignment- 
+
+A remake of the classic 1980's arcade title '1942'.
 
 | What needs doing | Is it done? (Probably not) |
 |---|---|
